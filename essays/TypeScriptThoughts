@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "The First Taste of Typescript"
+# All dates must be YYYY-MM-DD format!
+date: 2024-09-05
+published: true
+labels:
+  - Reflection
+---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 The First Taste of Typescript
 Initial Thoughts
 At first glance, Typescript was definitely not one of the top coding languages I was looking forward to learning, or honestly even knew was relevant, to be honest. People in this industry tend to push so much focus onto languages like Java and Python, and it makes it so easy to overlook how many other programming languages exist. It was also pretty alarming to find out during the first couple days of taking ICS 314 that I would have to do a lot of self learning. The lecture style was a complete 180 from my previous ICS classes where we’d spend multiple days going over a singular topic. It was honestly pretty stressful and I found myself scrambling, but I’m slowly getting the hang of it.
