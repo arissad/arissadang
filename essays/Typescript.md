@@ -9,7 +9,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="img/thinking.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/thinking.jpg">
 
 ## At a Glance
 
