@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/massage
+image: ../img/cotton/massage
 title: "Salon Promo"
 date: 2023
 published: true
