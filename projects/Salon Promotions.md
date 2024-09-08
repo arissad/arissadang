@@ -11,7 +11,7 @@ labels:
 summary: "Advertisements and promotions I made for my family business."
 ---
 
-<img class="img-fluid" src="img/cotton/Valentines day (72 x 36 in) (2).png">
+<img class="img-fluid" src="../img/cotton/Valentines day (72 x 36 in) (2).png">
 
 My family runs the Palazio Salon and Day Spa in Pearl City, and I'm in charge of designing the menus, posters, and banners for marketing and promotion.
 
