@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "Python"]
     },
     {
       "name": "Toolsets/OS",
@@ -51,6 +51,19 @@
       "highlights": [
         "Efficiently responded to student and faculty inquiries by email and phone call",
         "Maintained and organized student records, databases, and course materials"
+      ]
+    },
+    {
+      "company": "Palazio Salon and Day Spa",
+      "position": "Desk Receptionist",
+      "website": "",
+      "startDate": "2019-12-01",
+      "endDate": "2023-06-29",
+      "summary": "Receptionist at Local Salon",
+      "highlights": [
+        "Greeted and checked in salon patrons",
+        "Booked and coordinated appointments"
+        "Provided welcoming customer service for patrons"
       ]
     },
    
