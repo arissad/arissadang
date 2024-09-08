@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/cotton/massage
+image: https://github.com/arissadang/arissadang.github.io/blob/3560fd4ae77a9565b9f29dd2e843610e6f1e2051/img/cotton/massage%202.png
 title: "Salon Promo"
 date: 2023
 published: true
