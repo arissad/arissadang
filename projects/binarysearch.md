@@ -6,8 +6,9 @@ title: "Word Frequency Finder"
 date: 2024
 published: true
 labels:
-  - binary trees
-  - java
+  - Binary Trees
+  - Java
+  - Class Project
 summary: "A binary search tree project I made for ICS 211."
 ---
 
