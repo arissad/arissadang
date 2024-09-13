@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/binary-search-tree11.jpg
+image: ../img/searchpaper.png
 title: "Word Frequency Finder"
 date: 2024
 published: true
@@ -11,11 +11,7 @@ labels:
 summary: "A binary search tree project I made for ICS 211."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/binary-search-tree11.jpg">
 
 In this project I made for my ICS 211 class, I used a binary search tree to make a word finder that will count the amount of times words were used in a document.
 
