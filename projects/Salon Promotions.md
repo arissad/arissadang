@@ -21,7 +21,7 @@ I really enjoy doing these projects because not only do I get to help out my fam
 <img width="200px" align="right" src="../img/cotton/salon_menu.png">
 
 When I first started doing this, I didn't realize how stressful it was to be in charge of decisions like this because design could truly change someone's entire perception of a brand. I've watched videos of how rebrands changed the entire trajectory of a 
-business because of a font change or a color scheme shift, and I'd spend hours on such a simple project. Now that I've been doing it for a while, I can appreciate the effort that goes into design in general whether it be for advertisements or web design, which plays into software engineering. 
+business because of a font change or a color scheme shift, and I'd end up spend hours on such a simple project that looked like it took 10 minutes. Now that I've been doing it for a while, I can appreciate the effort that goes into design in general whether it be for advertisements or web design, which plays into software engineering. Just like software engineering and UX Design, so much goes on behind the scenes, and meticulous planning is required before something is implemented.
 
 
 
