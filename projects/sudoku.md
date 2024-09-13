@@ -7,6 +7,7 @@ date: 2024
 published: true
 labels:
   - Java
+  - Class Project
 summary: "A simple sudoku solver."
 ---
 
