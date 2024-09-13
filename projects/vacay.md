@@ -1,28 +1,46 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/sudoku.png
+title: "Sudoku Solver"
+date: 2024
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Java
+summary: "A simple sudoku solver."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/recursion.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Last year, I made a sudoku solver as the first project I did outside of class. Sudoku is one of my favorite games to play when I pass the time or when I'm bored, so I thought it was a great way to help me improve my skills in Java. It's a simple and common project to make with a lot of different tutorials for it on Youtube, but  nevertheless it helped me to understand the basics of recursion and Java in general.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+To use it, you would put the given numbers into the array in the code, and running it would give you the solution.
 
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+Here's an excerpt of the code:
+```cpp
+private static boolean solveBoard(int[][] board) {
+    for (int row = 0; row < GRID_SIZE; row++) {
+      for (int column = 0; column < GRID_SIZE; column++) {
+        if (board[row][column] == 0) {
+          for (int tryNumber = 1; tryNumber <= GRID_SIZE; tryNumber++) {
+            if (validPlacement(board, tryNumber, row, column)) {
+              board[row][column] = tryNumber;
+              
+              if (solveBoard(board)) {
+                return true;
+              }
+              else {
+                board[row][column] = 0;
+              }
+            }
+          }
+          return false;
+        }
+      }
+    }
+    return true;
+  }
+```
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+
