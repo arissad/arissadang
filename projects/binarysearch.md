@@ -22,7 +22,6 @@ In this project I made for my ICS 211 class, I used a binary search tree to make
 Here is some code that was used in the search:
 
 ```cpp
-byte ADCRead(byte ch)
 public BinaryStringTree(String fileName) {
 		root = null;
 		size = 0;
