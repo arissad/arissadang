@@ -20,9 +20,9 @@ I try to consider what draws in customers, like what fonts and images are appeal
 
 I really enjoy doing these projects because not only do I get to help out my family in some way, I can also get creative. Graphic design is a path I considered because I'm interested in art, but I decided to go the Computer Science route because there's more potential and diversity, which is why I'm interested in UX/UI Design.
 
-When I first started doing this, I didn't realize how stressful it was to be in charge of decisions like this because design could truly change someone's entire perception of a brand. I've watched videos of how rebrands changed the entire trajectory of a business because of a font change or a color scheme shift, and I'd spend hours on such a simple project. 
+When I first started doing this, I didn't realize how stressful it was to be in charge of decisions like this because design could truly change someone's entire perception of a brand. I've watched videos of how rebrands changed the entire trajectory of a 
 <img width="200px" align="right" src="../img/cotton/salon_menu.png">
-Now that I've been doing it for a while, I can appreciate the effort that goes into design in general whether it be for advertisements or web design, which plays into software engineering. 
+business because of a font change or a color scheme shift, and I'd spend hours on such a simple project. Now that I've been doing it for a while, I can appreciate the effort that goes into design in general whether it be for advertisements or web design, which plays into software engineering. 
 
 
 
