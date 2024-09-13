@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/ask-questions.png">
 
 ## Why Do I Need to Ask Smart Questions?
 
@@ -19,11 +19,11 @@ As Computer Science students, I feel extremely lucky that we have websites such 
 
 ## An Ideal Smart Question
 
-When searching through StackOverflow, I found a question called “Unexpected behaviour during implicit conversion in C”. This was a meaningful header, as it was kept short, but easy to understand. Overall, the question was extremely well formatted and was precise and informative. The asker provided context to the problem, and then gave the implementation and what exactly went wrong. They also stated what solutions they already tried, which I think is one of the most important aspects. It was an interesting question because they ended up finding the solution, but asked why the issue happened in the first place. As a result, the smart question in turn got smart answers. The solutions were well formatted and picked out specific parts that needed to be fixed. They also gave an explanation for what situations the problem could show up in.
+When searching through StackOverflow, I found a question called [“Unexpected behaviour during implicit conversion in C”] (https://stackoverflow.com/questions/78880607/unexpected-behaviour-during-implicit-conversion-in-c). This was a meaningful header, as it was kept short, but easy to understand. Overall, the question was extremely well formatted and was precise and informative. The asker provided context to the problem, and then gave the implementation and what exactly went wrong. They also stated what solutions they already tried, which I think is one of the most important aspects. It was an interesting question because they ended up finding the solution, but asked why the issue happened in the first place. As a result, the smart question in turn got smart answers. The solutions were well formatted and picked out specific parts that needed to be fixed. They also gave an explanation for what situations the problem could show up in.
 
 ## Search Before You Ask
 
-On the other hand, this question asked, “Validate an email address whether it is valid or invalid based on condition”. This question provided their code, however, it’s unclear what they’re really asking. You can tell it’s not detailed enough by the comments, as they’re asking for clarification on what the asker is trying to do, and are confused about the inquiry. Also, the asker didn’t search first as the question had already been asked before in StackOverflow 15 years ago. The confusion could’ve been avoided if they made a search for the question before asking it.
+On the other hand, this question asked, [“Validate an email address whether it is valid or invalid based on condition”] (https://stackoverflow.com/questions/78980085/validate-an-email-address-whether-it-is-valid-or-invalid-based-on-condition). This question provided their code, however, it’s unclear what they’re really asking. You can tell it’s not detailed enough by the comments, as they’re asking for clarification on what the asker is trying to do, and are confused about the inquiry. Also, the asker didn’t search first as the question had already been asked before in StackOverflow 15 years ago. The confusion could’ve been avoided if they made a search for the question before asking it.
 
 ## Conclusion
 
