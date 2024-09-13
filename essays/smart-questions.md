@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/ask-questions.png">
 
-## Why Do I Need to Ask Smart Questions?
+## Taking Advantage
 
 As Computer Science students, I feel extremely lucky that we have websites such as StackOverflow and StackExchange to aid us in whatever problems we may run into while coding. It’s a community unlike any other that has people from many different backgrounds and experiences in CS willing to help those who are willing to learn from them. However, with this privilege, we need to be mindful and reflective of what we ask and how we ask. This is where smart questions come into play. With this technique, there’s almost no way you won’t be able to get the help you need in these forums. Code is extremely complex and has way too many details and aspects to it to a point where it’ll be impossible to get a good solution if you aren’t concise. 
 
