@@ -13,7 +13,8 @@ summary: "A simple sudoku solver."
 <img class="img-fluid" src="../img/recursion.png">
 
 
-Last year, I made a sudoku solver as the first project I did outside of class. Sudoku is one of my favorite games to play when I pass the time or when I'm bored, so I thought it was a great way to help me improve my skills in Java. It's a simple and common project to make with a lot of different tutorials for it on Youtube, but  nevertheless it helped me to understand the basics of recursion and Java in general.
+Last year, I made a sudoku solver as the first project I did outside of class. Sudoku is one of my favorite games to play when I pass the time or when I'm bored, so I thought it was a great way to help me improve my skills in Java in a way that intrigued me, because I would feel a lot more inclined to work on something I'm interested in. 
+It's a simple and common project to make with a lot of different tutorials for it on Youtube, but  nevertheless it helped me to understand the basics of recursion and Java in general.
 
 To use it, you would put the given numbers into the array in the code, and running it would give you the solution.
 
@@ -42,5 +43,6 @@ private static boolean solveBoard(int[][] board) {
     return true;
   }
 ```
+This method solveBoard uses recursion as it goes through each empty space, and checks if it's valid using the validPlacement method. If it is valid, solveBoard recursively calls itself to solve the next empty space, and it keeps doing this until the board is complete.
  
 
