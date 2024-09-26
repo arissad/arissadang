@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "ESLint: What's the Big Deal?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2024-09-25
+published: true
 labels:
   - Software Engineering
   - Learning
@@ -12,8 +12,7 @@ labels:
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+  We’ve been using ESLint for about a week now, and I find it really useful. Although all my ICS professors have always emphasized the importance of coding standards, I can admit that I don’t follow those standards nearly as strictly as I should. The errors pointed out in my code were miniscule problems such as spacing and indentations, but after fixing them I could see a clear difference in the cleanliness of the code. Following coding standards is a bit tedious and monotonous at the start, but using ESLint made me realize the importance of it.
+	When I first started learning to code, I figured that formatting wasn’t that important because I was the only one who needed to understand it, as long as it was running properly. But now that we’re beginning to collaborate with others to create projects, following standards makes the process much more efficient by creating code that is readable and maintainable. Coding standards set up a basis for consistency which you can’t really risk losing in a group setting. Whether it’s naming conventions or commenting and documentation, all of these aspects are essential pieces of the puzzle needed to complete a project. Doing your part includes these guidelines, not just completing your assigned lines of code haphazardly without thinking about your group members.
+	Overall I agree with the idea that following coding standards can help you to learn a programming language. Every space and indent has its own purpose and while improving readability and errors as a whole, you can also understand the placement of certain functions, loops, and other parts of code and why they’re there.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
