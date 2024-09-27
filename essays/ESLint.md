@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/codingstand.jpg">
+<img width="150px" class="rounded float-start pe-4" src="../img/codingstand.jpg">
 
 We’ve been using ESLint for about a week now, and I find it really useful. Although all my ICS professors have always emphasized the importance of coding standards, I can admit that I don’t follow those standards nearly as strictly as I should. The errors pointed out in my code were miniscule problems such as spacing and indentations, but after fixing them I could see a clear difference in the cleanliness of the code. Following coding standards is a bit tedious and monotonous at the start, but using ESLint made me realize the importance of it.
 	
