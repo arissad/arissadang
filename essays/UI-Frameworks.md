@@ -10,7 +10,7 @@ labels:
   - UI Design
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/frameworks.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/framework.jpg">
 
 ## The Start of a Journey
 
