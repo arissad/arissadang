@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/ask-questions.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/designpatterns.png">
 
 ## Design Patterns - What's the Issue?
 
