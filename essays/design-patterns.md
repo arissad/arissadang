@@ -14,11 +14,14 @@ labels:
 
 ## Design Patterns - What's the Issue?
 
-As an aspiring software developer, over the course of 314, I’ve discovered the hard way that there's an infinite amount of issues you can run into while making and maintaining an app. But thankfully, for every problem, there’s a solution. This is where design patterns come in. Design Patterns don’t only help to simplify and expand code, but will also save you time and reduce bugs and errors to aid you in the long run. 
+As an aspiring software developer, over the course of 314, I’ve discovered the hard way that there's an infinite amount of issues you can run into while making and maintaining an app. But thankfully, for every problem, there’s a solution. This is where Design Patterns come in. Design Patterns don’t only help to simplify and expand code, but will also save you time and reduce bugs and errors to aid you in the long run. 
 
 ## My Steps for Implementing Design Patterns
 
-To be completely honest, I haven't utilized Design Patterns to their fullest potential, much less more than once or twice. It's still a relatively new concept to me and we haven't talked about them in class, so I don't find myself thinking about it when writing code. 
+To be completely honest, I haven't utilized Design Patterns to their fullest potential, much less more than once or twice. It's still a relatively new concept to me and we haven't talked about them in class, so I don't find myself thinking about it when writing code. But after reading over Design Patterns and what they are, I've drawn out steps for implementing them in the future.
+1. *Identify the Problem and/or Goal:* Just like any organized software developer, before starting, I need to know what the goal of the code is and have a general plan for what pages or functions I need to implement. Having this concrete idea is important before I can move on to the next step.
+2. *Match the Pattern* - This next step is essential, as it obviously decides what Design Pattern I want to use and will be most useful to me. After having that concrete plan, I should look over all the available Patterns and take into account their functions, benefits, and will keep my code structured the way I want. It's important to remember the flexibility of the Pattern as that could affect the project as more and more code is added over time.
+3. *Implement the Pattern* -
 
 ## Search Before You Ask
 
