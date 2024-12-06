@@ -18,7 +18,8 @@ As an aspiring software developer, over the course of 314, I’ve discovered the
 
 ## Exploring Design Patterns
 
-There are 3 main types of Design Patterns: _Creational, Structural, and Behavioral._ 
+There are 3 main types of Design Patterns: **Creational**, **Structural**, and **Behavioral**. Creational Design Patterns focus on object creation, which increases flexibility and reuse of existing code. An example of this would be the Singleton, which ensures only one instance of a class is created and should be available through the code. Structural Patterns on the other hand deal with organization and composition of classes and objects to form larger structures. This includes the Observer, which defines a dependency between objects so that when one changes, all the dependents are notified and updated automatically. Behavioral Patterns manage algorithms, and support the communication between objects and classes. 
+
 
 ## My Steps for Implementing Design Patterns
 
@@ -30,4 +31,4 @@ To be completely honest, I haven't utilized Design Patterns to their fullest pot
 
 ## Conclusion
 
-While I haven't used Design Patterns yet, I can see myself benefitting from them in the future. I tend to be a bit all over the place and quickly get overwhelmed by my code, and kind of regret not using them sooner. Hopefully implementing them will make my life a lot easier in the future! It may seem kind of annoying to think about what patterns I should use when I just want to jump right into the project, but the journey will definitely become a lot smoother once I get used to following the steps.
+While I haven't used Design Patterns yet, I can see myself benefitting from them in the future. I tend to be a bit all over the place and quickly get overwhelmed by my code, and kind of regret not using them sooner. Hopefully implementing them will make my life a lot easier in the future. It may seem kind of annoying to think about what patterns I should use when I just want to jump right into the project, but the journey will definitely become a lot smoother once I get used to following the steps.
