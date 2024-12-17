@@ -45,9 +45,14 @@ I would often copy and paste whole pages of code into ChatGPT so it could give m
 ### Other Uses
 The uses listed above address the majority of the ways I used AI in ICS 314. Some additional ways I used it was in brainstorming a slogan for our final project, or using it to explain the errors we were getting in deployment.
 ## Impact on Learning and Understanding
+Like I said before, using AI is a double edged sword. While it did help me to complete assignments and projects quickly and with less effort on my part, I still need to keep up and work on my own skills. Relying on it too much will definitely affect my knowledge in the long run, and before I know it, I won’t be able to function without AI.
+Since AI isn’t perfect by any means, I’m glad I could take this opportunity to find ways where I can work around its limitations. For all I know, using AI effectively could be a skill employers look for in the future, and using it in ICS 314 definitely strengthened my skills.
 ## Practical Applications
+Outside of ICS 314, I use AI to mostly brainstorm ideas for personal projects. It can turn a general idea into a plethora of new ones. This could apply to any real-world challenges, whether it be software engineering or something else. When I feel like I’m stuck at a dead end, AI can always open up a new path that I haven’t thought of yet. In the future, I see AI being implemented into our everyday lives to make certain tasks easier. Tools like Github Copilot and such already make coding a much easier task than it was a few years ago.
 ## Challenges and Opportunities
+For more advanced programs that run across multiple files, it’s definitely a lot harder to get the solution you want from AI. The more advanced instructions I gave, the more confused the AI got, and it would just end up barfing out random things that just made the program unnecessarily complicated. However, the code that AI can produce is still amazing and its capabilities are expanding day by day. I wouldn’t be surprised if there were classes that taught students how to utilize AI effectively and efficiently in the future. 
 ## Comparitive Analysis
+In both a standard classroom and AI teaching, it all depends on what you make of it or the style of teaching. Traditional lecture styles are personally not effective for me, as I don’t retain that information because it’s not actively being applied. This could also apply to AI, where it gives me information on how to do things, but I’m not exactly implementing anything myself. On the contrary, more interactive classes that prioritize discussion and hands-on exercises are much more beneficial. I believe a combination of the two can be curated to make an even better learning experience.
 ## Future Considerations
 
 ## Conclusion
