@@ -14,7 +14,7 @@ labels:
 
 ## Introduction
 
-Ever since I began my journey as a Computer Science major at UH Manoa, I’ve been pushed to use Artificial Intelligence in my ICS assignments and projects. This came as a surprise to me, as all my other professors have stated that they don’t tolerate the use of AI in any circumstances. However, using AI as a tool helped me to gain perspectives on software engineering that I probably never would’ve experienced if I didn’t utilize ChatGPT and Claude.
+Ever since I began my journey as a Computer Science major at UH Manoa, I’ve been pushed to use Artificial Intelligence in my ICS assignments and projects. This came as a surprise to me, as all my other professors have stated that they don’t tolerate the use of AI in any circumstances. However, using AI as a tool helped me to gain perspectives on software engineering that I probably never would’ve experienced if I didn’t utilize ChatGPT and Claude. Whether it was getting AI to write code for me or to explain certain concepts, there was a variety of ways that it helped me throughout the course of ICS 314.
 
 ## Personal Experience with AI
 
