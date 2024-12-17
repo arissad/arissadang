@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "AI Takeover: How I Utilized AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-04
+date: 2024-12-16
 published: true
 labels:
   - AI
