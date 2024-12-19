@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/designpatterns.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/swe.png">
 
 ## Developing a Skill
 In ICS 314, we learned a lot about software engineering, specifically web development. But along with this, we implemented various skills and techniques that would be essential in aiding us to create the most functional and utilitarian programs, not just for others, but for ourselves and our teams. We tend to overlook the simple concepts, but skills like **Coding Standards** and **Ethics in Software Engineering** were essential to my learning and are just a couple parts of Software Engineering that I'll take with me beyond ICS 314. 
